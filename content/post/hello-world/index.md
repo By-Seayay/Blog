@@ -1,6 +1,6 @@
 ---
-title: 全新升级！
-description: 欢迎访问由 Hugo 构建的 Blog.Seayay.top
+title: "全新升级！"
+description: "欢迎访问由 Hugo 构建的 Blog.Seayay.top"
 slug: hello-world
 date: 2023-10-21 22:56:00+0000
 image: cover.jpg
