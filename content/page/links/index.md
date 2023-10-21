@@ -11,12 +11,12 @@ menu:
         params:
             icon: link
 
-comments: false
+comments: true
 ---
 
-To use this feature, add `links` section to frontmatter.
+想要将您的链接交换至此页面，请按照以下格式将您的站点信息发送至评论区。
 
-This page's frontmatter:
+站点信息格式：
 
 ```yaml
 links:
@@ -29,5 +29,3 @@ links:
     website: https://www.typescriptlang.org
     image: ts-logo-128.jpg
 ```
-
-`image` field accepts both local and external images.

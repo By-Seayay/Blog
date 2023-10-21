@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: 博客
+description: 整理有关博客的文章。
 image:
 
 # Badge style

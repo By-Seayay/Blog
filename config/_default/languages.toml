@@ -1,0 +1,12 @@
+# Rename this file to languages.toml to enable multilingual support
+[zh-cn]
+languageName = "English"
+languagedirection = "ltr"
+title = "思遥方 & 思源千年的博客"
+weight = 1
+
+[en]
+languageName = "English"
+languagedirection = "ltr"
+title = "Seayay's Blog"
+weight = 2
