@@ -12,6 +12,6 @@ tags:
 
 {{< bilibili av938641073 1 >}}
 
-我还没写完，先听会歌吧。
+我还没写完，先听会歌休息下吧。
 
 > Photo by [Taylor Wright](https://unsplash.com/@taylorwright22) on [Unsplash](https://unsplash.com/)
