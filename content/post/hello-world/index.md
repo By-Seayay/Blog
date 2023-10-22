@@ -8,7 +8,6 @@ categories:
     - "博客"
 tags:
     - "博客"
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 欢迎来到全新的“[思遥方的小家](https://blog.seayay.top)”站点，现已更名为[思遥方 & 思源千年的博客](https://blog.seayay.top)，原有文章已被清空，让我们从头开始！
