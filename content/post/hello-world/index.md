@@ -5,9 +5,9 @@ slug: hello-world
 date: 2023-10-21 22:56:00+0000
 image: cover.jpg
 categories:
-    - "Blog"
+    - "博客"
 tags:
-    - "Blog"
+    - "博客"
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
