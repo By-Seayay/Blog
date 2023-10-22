@@ -1,6 +1,6 @@
 ---
-title: 博客
-description: 博客有关文章。
+title: 关于我
+description: 关于我的文章。
 image:
 
 # Badge style
