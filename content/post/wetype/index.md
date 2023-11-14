@@ -1,6 +1,6 @@
 ---
 title: "「微信输入法」——小而美的输入法"
-description: ""
+description: "简洁、好用，但尚未完善的输入法。"
 slug: wetype
 date: 2023-11-14 22:30:00+0000
 image: cover.png
