@@ -5,6 +5,10 @@ links:
     description: GitHub is the world's largest software development platform.
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: 晓雨杂记
+    description: 也许我们会分别，但我们将永远不会忘记彼此。
+    website: https://lihaoyu.cn
+    image: https://blog-api.lihaoyu.cn/avatar
 menu:
     main: 
         weight: 4
