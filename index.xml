@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>思遥方 &amp; 思源千年的博客</title><link>https://blog.seayay.top/</link><description>Recent content on 思遥方 &amp; 思源千年的博客</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 14 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.seayay.top/index.xml" rel="self" type="application/rss+xml"/><item><title>「微信输入法」——小而美的输入法</title><link>https://blog.seayay.top/p/wetype/</link><pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate><guid>https://blog.seayay.top/p/wetype/</guid><description>&lt;img src="https://blog.seayay.top/p/wetype/cover.png" alt="Featured image of post 「微信输入法」——小而美的输入法" />&lt;blockquote>
+&lt;p>本文撰写于 2023 年 11 月 14 日，所提及的内容可能有所变动。&lt;/p>
+&lt;/blockquote>
+&lt;h1 id="简洁">简洁&lt;/h1>
+&lt;p>微信输入法没有多余的功能，足够简洁：像国内其他输入法的皮肤、账号等功能，微信输入法都没有提供。&lt;em>（也有可能是还没做好）&lt;/em>&lt;/p>
+&lt;p>但简洁同时也带来了一些缺点：你暂时没法随心所欲地自定义微信输入法的外观，也没有办法云端同步你的输入法设置和词库。&lt;/p>
+&lt;p>期待微信输入法将来的更新能够带来云端同步的功能。&lt;/p>
+&lt;h1 id="好用">好用&lt;/h1>
+&lt;p>微信输入法采用了多行的候选，按下翻页键，多行候选词便展现出来，能够更快的找到自己的候选词，但用惯了切换而不是展开候选词的用户可能要花一些时间适应一下。&lt;/p>
+&lt;p>&lt;img src="https://blog.seayay.top/p/wetype/wetype-sample.png"
+width="684"
+height="264"
+srcset="https://blog.seayay.top/p/wetype/wetype-sample_hu41805ce2020aa52202538e1a57004bf8_49054_480x0_resize_box_3.png 480w, https://blog.seayay.top/p/wetype/wetype-sample_hu41805ce2020aa52202538e1a57004bf8_49054_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="多行候选词"
+class="gallery-image"
+data-flex-grow="259"
+data-flex-basis="621px"
+>&lt;/p>
+&lt;p>同时，微信输入法提供了跨设备功能，支持跨设备复制粘贴和个人词库、常用语同步，间接弥补了缺失云端同步的缺点。&lt;/p>
+&lt;p>当前版本，跨设备功能的关联设备步骤十分简单，只需要输入另一个设备的匹配码即可绑定。&lt;/p>
+&lt;p>&lt;img src="https://blog.seayay.top/p/wetype/wetype-sync.png"
+width="457"
+height="306"
+srcset="https://blog.seayay.top/p/wetype/wetype-sync_hued51cd9d3c4745b24535c63aaabecef4_12722_480x0_resize_box_3.png 480w, https://blog.seayay.top/p/wetype/wetype-sync_hued51cd9d3c4745b24535c63aaabecef4_12722_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="跨设备选项"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="358px"
+> &lt;img src="https://blog.seayay.top/p/wetype/wetype-bind.png"
+width="380"
+height="280"
+srcset="https://blog.seayay.top/p/wetype/wetype-bind_hu797c0e15ec3306e503965e86a578a79e_10653_480x0_resize_box_3.png 480w, https://blog.seayay.top/p/wetype/wetype-bind_hu797c0e15ec3306e503965e86a578a79e_10653_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="设备绑定"
+class="gallery-image"
+data-flex-grow="135"
+data-flex-basis="325px"
+>&lt;/p>
+&lt;h1 id="总结">总结&lt;/h1>
+&lt;p>总而言之，微信输入法是一个足够简洁、好用的输入法，对于用惯了国内臃肿的输入法的用户来说值得一试。&lt;/p>
+&lt;p>但现在的版本还不支持 U 模式输入，此功能的重度用户还暂时不建议切换微信输入法使用。&lt;/p>
+&lt;p>下载方式：&lt;a class="link" href="https://z.weixin.qq.com/" target="_blank" rel="noopener"
+>通过微信输入法官网下载&lt;/a>&lt;/p></description></item><item><title>全新升级！</title><link>https://blog.seayay.top/p/hello-world/</link><pubDate>Sat, 21 Oct 2023 22:56:00 +0000</pubDate><guid>https://blog.seayay.top/p/hello-world/</guid><description>&lt;img src="https://blog.seayay.top/p/hello-world/cover.jpg" alt="Featured image of post 全新升级！" />&lt;p>欢迎来到全新的“&lt;a class="link" href="https://blog.seayay.top" target="_blank" rel="noopener"
+>思遥方的小家&lt;/a>”站点，现已更名为&lt;a class="link" href="https://blog.seayay.top" target="_blank" rel="noopener"
+>思遥方 &amp;amp; 思源千年的博客&lt;/a>，原有文章已被清空，让我们从头开始！&lt;/p>
+&lt;p>想要了解更多此博客主题有关的内容: &lt;a class="link" href="https://stack.jimmycai.com/" target="_blank" rel="noopener"
+>https://stack.jimmycai.com/&lt;/a>&lt;/p>
+&lt;p>想要搭建一个像此站点的网站？请查阅 &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack-starter" target="_blank" rel="noopener"
+>hugo-theme-stack-stater&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>Photo by &lt;a class="link" href="https://unsplash.com/@pawel_czerwinski" target="_blank" rel="noopener"
+>Pawel Czerwinski&lt;/a> on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+>Unsplash&lt;/a>&lt;/p>
+&lt;/blockquote></description></item><item><title>Archives</title><link>https://blog.seayay.top/archives/</link><pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate><guid>https://blog.seayay.top/archives/</guid><description/></item><item><title>Links</title><link>https://blog.seayay.top/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.seayay.top/links/</guid><description>&lt;p>想要将您的链接交换至此页面，请按照以下格式将您的站点信息发送至评论区。&lt;/p>
+&lt;p>站点信息格式：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">标题&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">介绍&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">网站链接&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">网站头像链接&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>请注意，进行交换的友链必须符合以下条件：&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>支持 HTTPS 加密&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>已将本站加入友链页&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>有可正常联系到站长本人的途径&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>加载速度 ≤ 10s&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>不得有违反中华人民共和国相关法律法规内容&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>本站有可能会在未通知您的情况下将您的友链移除，若您想在友链被移除时收到通知，请在 GitHub 个人页面留下可供联系的联系方式。&lt;/p></description></item><item><title>Search</title><link>https://blog.seayay.top/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.seayay.top/search/</guid><description/></item></channel></rss>
