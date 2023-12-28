@@ -28,7 +28,7 @@ tags:
 
 [TheblueMan003/Stereoscopic](https://www.theblueman003.com/maps/stereoscopic.php): In this puzzle map your screen will be split in 3. Each corner of it will only display one color! Can your brain adapt itself?
 
-[TheblueMan003/Parkour Apocalypse](https://www.theblueman003.com/maps/parkour_apocalypse.php)
+[TheblueMan003/Parkour Apocalypse](https://www.theblueman003.com/maps/parkour_apocalypse.php): A parkour map at the end of the world. Can new survive it?
 
 [TheblueMan003/Oneshot](https://theblueman003.com/maps/oneshot.php): In this minigame, all players are equipped with a laser gun. You must use it to shoot your friends.
 
@@ -38,4 +38,4 @@ tags:
 
 # Special Thanks
 
-Photo by [Pramod Tiwari](https://unsplash.com/@pramodtiwari?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-group-of-bubbles-floating-in-the-air--HE_g2BcZ_A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) under the [Unsplash License](https://unsplash.com/licensethe )
+Photo by [Pramod Tiwari](https://unsplash.com/@pramodtiwari?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-group-of-bubbles-floating-in-the-air--HE_g2BcZ_A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) under the [Unsplash License](https://unsplash.com/license).
