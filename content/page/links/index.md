@@ -9,6 +9,14 @@ links:
     description: 也许我们会分别，但我们将永远不会忘记彼此。
     website: https://lihaoyu.cn
     image: https://blog-api.lihaoyu.cn/avatar
+  - title: Z_Tsin's Home
+    description: Z_Tsin 的个人主页
+    website: https://ztsin.cn
+    image: https://ztsin.cn/avatar.png
+  - title: Phasmaruo和SKW的小站
+    description: Phasmaruo官网但被SKW私用（屑
+    website: https://blog.phasmaruo.com
+    image: https://phasmaruo.com/avatar.jpg
 menu:
     main: 
         weight: 4
@@ -23,7 +31,6 @@ comments: true
 站点信息格式：
 
 ```yaml
-links:
   - title: 标题
     description: 介绍
     website: 网站链接
