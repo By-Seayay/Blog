@@ -9,14 +9,10 @@ links:
     description: 也许我们会分别，但我们将永远不会忘记彼此。
     website: https://lihaoyu.cn
     image: https://blog-api.lihaoyu.cn/avatar
-  - title: Z_Tsin's Home
-    description: Z_Tsin 的个人主页
-    website: https://ztsin.cn
-    image: https://ztsin.cn/avatar.png
-  - title: Phasmaruo和SKW的小站
-    description: Phasmaruo官网但被SKW私用（屑
-    website: https://blog.phasmaruo.com
-    image: https://phasmaruo.com/avatar.jpg
+  - title: 和平鸽の博客
+    description: 和平鸽's Blog丨静水流深.
+    website: https://www.mrpigeon.eu.org/
+    image: https://img.mrpigeon.eu.org/main/favicon.jpg
 menu:
     main: 
         weight: 4
