@@ -13,6 +13,10 @@ links:
     description: 和平鸽's Blog丨静水流深.
     website: https://www.mrpigeon.eu.org/
     image: https://img.mrpigeon.eu.org/main/favicon.jpg
+  - title: Bingxin Home
+    description: 好久不见
+    website: https://blog.byteloid.one
+    image: https://blog.byteloid.one/img/march7th.webp
 menu:
     main: 
         weight: 4
@@ -39,6 +43,7 @@ comments: true
     description: 翻译 · 创作 · 日常
     website: https://blog.seayay.top
     image: https://seayay.top/avatar.png
+```
 
 请注意，进行交换的友链必须符合以下条件：
 
