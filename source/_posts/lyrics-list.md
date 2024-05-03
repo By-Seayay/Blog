@@ -12,57 +12,73 @@ tags:
     - "歌词"
 ---
 
-按发布时间与语种排序，最新发布的歌词会显示在最上方，上传至 AMLL TTML Database 或 Lyricify 歌词库的歌词将会使用 “A” 或 “L” 特别标记，由 QQ 音乐歌词调整而来的歌词使用 “Q” 标记，由网易云歌词调整而来的歌词使用 “N” 标记，由 Apple Music 调整而来的歌词使用 “S” 标记。
+# 前言
+
+按发布时间排序，最新发布的歌词会显示在最上方。
+
+<!-- more -->
+
+# 特殊标记
+
+[AD] AMLL TTML Database 可用
+[LD] Lyricify 歌词库可用
+[QM] 修改至 QQ音乐 歌词
+[NC] 修改至 网易云音乐 歌词
+[AM] 修改至 Apple Music 歌词
 
 # 中文
 
 ## 泠鸢yousa
 
-ALQ - 待我回返
+[AD][LD][QM] 待我回返
 
-ALQ - 还是你的笑容最可爱 (Live)
+[AD][LD][QM] 还是你的笑容最可爱 (Live)
 
-LQ - 闹春巷 (Live)
+[LD][QM] 闹春巷 (Live)
 
-LQ - 我的故事未写完 (Live)
+[LD][QM] 我的故事未写完 (Live)
 
 ## 多人
 
-> 此处收纳演唱歌手大于等于 2 人的曲目，以 “特殊标记 - 歌手 - 歌名” 记录。
+> 此处收纳演唱歌手大于等于 2 人的曲目，以 “[特殊标记] 歌手 - 歌名” 记录。
 
-ALQN - 法老, 小精灵, 早安 - 健将 PLUS - MAX Nate 60 Pro 15G 24000万AI十四摄 阿姆斯特朗回旋性能加强 至尊荣耀青春 破解版
+[AD][LD][QM][NC] 法老, 小精灵, 早安 - 健将 PLUS - MAX Nate 60 Pro 15G 24000万AI十四摄 阿姆斯特朗回旋性能加强 至尊荣耀青春 破解版
 
-ALN - 等一下就回家, 孟子坤 - 月下路
+[AD][LD][NC] 等一下就回家, 孟子坤 - 月下路
 
 # 英文
 
 ## AJR
 
-AQN - Maybe man
+[AD][QM][NC] Maybe man
 
 ## 陶喆
 
-ALS - Take 6 Minus 3
+[AD][LD][AM] Take 6 Minus 3
+
+## 多人
+
+[LD][QM][AM] CeeLo Green, Melanie Fiona - Fool for You
 
 # 日文
 
 ## なるみや
 
-LQN - 乙女的ストーキング
+[LD][QM][NC] - 乙女的ストーキング
 
-ALQN - 可愛いあの子が気にゐらない
+[AD][LD][QM][NC] - 可愛いあの子が気にゐらない
 
-# r-906
+## r-906
 
-ALQN - ムーンライトダンサー 2023
+[AD][LD][QM][NC] - ムーンライトダンサー 2023
 
 # 混合语种
 
-> 此处收纳演唱语种大于等于 2 种的曲目，以 “特殊标记 - 歌手(除独唱) - 语种 - 歌名” 记录。
+> 此处收纳演唱语种大于等于 2 种的曲目，以 “[特殊标记] 多位歌手(如有) - 语种 - 歌名” 记录。
 
 ## 袁娅维TIA RAY
 
-LS - 中文(普通话);英文 - 偶像的黄昏（TAKE IT EASY）
+[LD][AM] 中文(普通话);英文 - 偶像的黄昏（TAKE IT EASY）
 
 # Special Thanks
 
