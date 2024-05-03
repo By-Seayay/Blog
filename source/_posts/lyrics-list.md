@@ -46,6 +46,12 @@ tags:
 
 [AD][LD][NC] 等一下就回家, 孟子坤 - 月下路
 
+# 闽南语
+
+## 多人
+
+[LD][QM][NC] 塞壬唱片-MSR, 宋柏, 十音, 解伟苓 - 浸春芜
+
 # 英文
 
 ## AJR
@@ -64,13 +70,13 @@ tags:
 
 ## なるみや
 
-[LD][QM][NC] - 乙女的ストーキング
+[LD][QM][NC] 乙女的ストーキング
 
-[AD][LD][QM][NC] - 可愛いあの子が気にゐらない
+[AD][LD][QM][NC] 可愛いあの子が気にゐらない
 
 ## r-906
 
-[AD][LD][QM][NC] - ムーンライトダンサー 2023
+[AD][LD][QM][NC] ムーンライトダンサー 2023
 
 # 混合语种
 
@@ -84,3 +90,7 @@ tags:
 
 使用 [AMLL TTML Tool](https://steve-xmh.github.io/amll-ttml-tool/) 进行打轴与校对。
 使用 [Lyricify for Spotify](https://github.com/WXRIW/Lyricify-App) 进行校对与调整。
+
+# What's More
+
+在 [Spotify](https://open.spotify.com/user/31n7vola2323vq4eoyrwc2quafj4?si=03fee8e3164149ea) 上关注我。
