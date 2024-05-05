@@ -1,9 +1,7 @@
 ---
 title: "Now it's Hexo!"
-description: "欢迎访问由 Hexo 构建的 Blog.Seayay.top"
 slug: hello-world
 date: 2024-05-01 23:23
-image: cover.jpg
 categories:
     - "博客"
 tags:
