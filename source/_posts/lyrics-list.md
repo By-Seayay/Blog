@@ -38,6 +38,10 @@ tags:
 
 [LD][QM] 我的故事未写完 (Live)
 
+## 多多poi
+
+[AD][QM] 盘旋
+
 ## 多人
 
 > 此处收纳演唱歌手大于等于 2 人的曲目，以 “[特殊标记] 歌手 - 歌名” 记录。
@@ -53,6 +57,10 @@ tags:
 [LD][QM][NC] 塞壬唱片-MSR, 宋柏, 十音, 解伟苓 - 浸春芜
 
 # 英文
+
+## Cage The Elephant
+
+[AD][LD][QM][AM] Mess Around
 
 ## AJR
 
