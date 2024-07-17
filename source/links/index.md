@@ -1,6 +1,6 @@
 ---
 title: 友情链接
-date: 2024-05-02 21:32:03
+date: 2024-07-17 18:55:00
 ---
 
 # 友链列表
@@ -28,6 +28,12 @@ date: 2024-05-02 21:32:03
 好久不见。 
 
 [blog.byteloid.one](https://blog.byteloid.one)
+
+## 云之彼端
+
+<img src="https://img.blog.kysolva.eu.org/icons.webp" width="100" height="100"/> Biltune
+
+生而热忱，终也欢洽。
 
 # 友链申请
 
