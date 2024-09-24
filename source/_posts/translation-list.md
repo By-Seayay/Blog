@@ -1,6 +1,5 @@
 ---
-title: "翻译列表"
-description: "查阅由本人翻译的作品列表。"
+title: "翻译列表与提交申请"
 slug: translation-list
 date: 2023-12-28 11:30
 comment: true
@@ -10,17 +9,19 @@ tags:
     - "翻译"
 ---
 
-按翻译时间排序，最近翻译的会显示在最上方。
+按翻译时间排序，最新翻译的内容将会显示在最上方。
 
-带有 ❤️ 标志的证明这是一个开源项目，你可以轻松地改进我的翻译。
+# 提交申请
 
-# Browser Extensions
+若您的项目需要多语言，欢迎联系本人进行本地化工作。
 
-❤️[victrme/Bonjourr](https://github.com/victrme/Bonjourr): Bonjourr is a home page for your Internet browser inspired by the looks of iOS.
+具体联系方式，请参考侧栏的 "关于" 页面。
 
-# Minecraft related works
+# 浏览器扩展
 
-> I'm not associated with Mojang or Microsoft. These works are created by an excellent group of players.
+[victrme/Bonjourr](https://github.com/victrme/Bonjourr): Bonjourr is a home page for your Internet browser inspired by the looks of iOS.
+
+# Minecraft 相关内容
 
 [TheblueMan003/Guess My Drawing](https://www.theblueman003.com/maps/guess_my_drawing.php): Guess My Drawing is a multiplayer map where one player draw a word and the other players have to guess that word.
 
@@ -35,7 +36,3 @@ tags:
 [TheblueMan003/Race For The Crown](https://theblueman003.com/maps/race_for_the_crown.php): A parkour map in which you race against an AI. You must beat it for each level. Can you win the race and get the crown before the AI?
 
 [TheblueMan003/Gravity Parkour](https://www.minecraftmaps.com/parkour-maps/gravity-parkour): A parkour map that plays with gravity!
-
-# Special Thanks
-
-Photo by [Pramod Tiwari](https://unsplash.com/@pramodtiwari?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-group-of-bubbles-floating-in-the-air--HE_g2BcZ_A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) under the [Unsplash License](https://unsplash.com/license).
