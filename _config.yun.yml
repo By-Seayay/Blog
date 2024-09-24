@@ -7,6 +7,17 @@ avatar:
     emoji: 🍃
     message: 风吹叶落
 
+banner:
+  enable: true
+  title: 思遥方的小家
+  border: true
+  cloud:
+    enable: true
+    color: white
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
 reward:
   enable: false
 
