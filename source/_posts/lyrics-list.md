@@ -50,4 +50,6 @@ tags:
 
 # 了解更多
 
-在 [Spotify](https://open.spotify.com/user/31n7vola2323vq4eoyrwc2quafj4?si=03fee8e3164149ea) 上关注我。
+在 [Spotify](https://open.spotify.com/user/31n7vola2323vq4eoyrwc2quafj4?si=03fee8e3164149ea) 上关注我，或搭配 [Lyricify for Spotify](https://github.com/WXRIW/Lyricify-App) 通过播放此歌单获取最佳体验。
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5X3MEUcakiLWzvzJohldph?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
