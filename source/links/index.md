@@ -24,7 +24,7 @@ links:
     desc: 静水流深.
     color: '#FADA5E'
   - url: "northlank.top"
-    avatar: "https://northlank.top/logo.ico"
+    avatar: "https://northlank.top/logo.jpg"
     name: "IMMG"
     blog: "北极熊地图管理组网站"
     desc: "查询, 提取, 高速下载北极熊翻译地图"
