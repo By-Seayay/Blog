@@ -23,12 +23,12 @@ links:
     blog: 和平鸽の博客
     desc: 静水流深.
     color: '#FADA5E'
-  - url: "northlank.top"
-    avatar: "https://northlank.top/logo.jpg"
-    name: "IMMG"
-    blog: "北极熊地图管理组网站"
-    desc: "查询, 提取, 高速下载北极熊翻译地图"
-    color: "#CD853F"
+  - url: https://northlank.top
+    avatar: https://northlank.top/logo.jpg
+    name: IMMG
+    blog: 北极熊地图管理组网站
+    desc: 查询, 提取, 高速下载北极熊翻译地图
+    color: '#CD853F'
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
