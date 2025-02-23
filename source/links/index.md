@@ -29,6 +29,12 @@ links:
     blog: 北极熊地图管理组网站
     desc: 查询, 提取, 高速下载北极熊翻译地图
     color: '#CD853F'
+  - url: https://blog.japerz.com
+    avatar: https://q.qlogo.cn/g?b=qq&nk=1952135253&s=100
+    name: Japerz
+    blog: 杰帕斯の小窝
+    desc: 是新朋友？还是老相识呢？
+    color: '#E1F0EB'
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
