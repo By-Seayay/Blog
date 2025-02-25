@@ -17,7 +17,7 @@ links:
     blog: 晓雨杂记
     desc: 也许我们会分别，但我们将永远不会忘记彼此。
     color: '#F2BC57'
-  - url: https://www.pigeon.us.kg
+  - url: https://www.070624.xyz
     avatar: http://yanxuan.nosdn.127.net/0b47146cfd3262d9b00008497dcf6230.jpg
     name: 和平鸽
     blog: 和平鸽の博客
